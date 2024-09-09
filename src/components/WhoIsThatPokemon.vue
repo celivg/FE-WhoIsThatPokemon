@@ -3,6 +3,7 @@ import axios from 'axios'
 import PokemonCard from '@/components/PokemonCard.vue'
 
 export default {
+  name: 'WhoIsThatPokemon',
   components: {
     PokemonCard
   },
